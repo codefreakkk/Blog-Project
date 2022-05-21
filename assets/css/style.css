@@ -1475,8 +1475,9 @@ section.parallax a:hover {
 .overview-box {
 	position:relative;
 	padding:20px 30px;
+	flex: auto;
 	background-color:#fff;
-	margin-bottom:20px;
+	margin: 10px;
 	box-shadow:0 0 20px 0 rgba(0, 0, 0, 0.06);
     border-radius:6px;
     transition:all 0.3s;
